@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "美辞目録",
+  "base_artist": "Reol",
+  "createdAt": "2026-02-15T14:44:02.361783Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "美辞目録",
+      "artist": "Reol",
+      "has_synced": false,
+      "path": "select/pl_01_美辞目録_Reol.txt"
+    }
+  ]
+}
